@@ -1,0 +1,12 @@
+E:\UTN 20233\Proyecto primera parcial visual studio\EmpresaUTN.UAPI0\bin\Release\net6.0\EmpresaUTN.UAPI.deps.json
+E:\UTN 20233\Proyecto primera parcial visual studio\EmpresaUTN.UAPI0\bin\Release\net6.0\EmpresaUTN.UAPI.dll
+E:\UTN 20233\Proyecto primera parcial visual studio\EmpresaUTN.UAPI0\bin\Release\net6.0\EmpresaUTN.UAPI.pdb
+E:\UTN 20233\Proyecto primera parcial visual studio\EmpresaUTN.UAPI0\obj\Release\net6.0\EmpresaUTN.UAPI.csproj.AssemblyReference.cache
+E:\UTN 20233\Proyecto primera parcial visual studio\EmpresaUTN.UAPI0\obj\Release\net6.0\EmpresaUTN.UAPI.GeneratedMSBuildEditorConfig.editorconfig
+E:\UTN 20233\Proyecto primera parcial visual studio\EmpresaUTN.UAPI0\obj\Release\net6.0\EmpresaUTN.UAPI.AssemblyInfoInputs.cache
+E:\UTN 20233\Proyecto primera parcial visual studio\EmpresaUTN.UAPI0\obj\Release\net6.0\EmpresaUTN.UAPI.AssemblyInfo.cs
+E:\UTN 20233\Proyecto primera parcial visual studio\EmpresaUTN.UAPI0\obj\Release\net6.0\EmpresaUTN.UAPI.csproj.CoreCompileInputs.cache
+E:\UTN 20233\Proyecto primera parcial visual studio\EmpresaUTN.UAPI0\obj\Release\net6.0\EmpresaUTN.UAPI.dll
+E:\UTN 20233\Proyecto primera parcial visual studio\EmpresaUTN.UAPI0\obj\Release\net6.0\refint\EmpresaUTN.UAPI.dll
+E:\UTN 20233\Proyecto primera parcial visual studio\EmpresaUTN.UAPI0\obj\Release\net6.0\EmpresaUTN.UAPI.pdb
+E:\UTN 20233\Proyecto primera parcial visual studio\EmpresaUTN.UAPI0\obj\Release\net6.0\ref\EmpresaUTN.UAPI.dll

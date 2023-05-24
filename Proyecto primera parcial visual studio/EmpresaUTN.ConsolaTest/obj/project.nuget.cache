@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "fp4h0UM6kJlNmxopn2wWDG0Z813d2KpGwByp/TsEUpGwNjOC59UQX4xCmZV6fnhzGRXY6N1kGMddcJvskFIIVQ==",
+  "success": true,
+  "projectFilePath": "E:\\UTN 20233\\Proyecto primera parcial visual studio\\EmpresaUTN.ConsolaTest\\EmpresaUTN.ConsolaTest.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Admin\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

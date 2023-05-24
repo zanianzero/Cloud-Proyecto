@@ -1,0 +1,80 @@
+﻿@model EmpresaUTN.Modelos.Plato
+
+@{
+    ViewData["Title"] = "Details";
+}
+
+<h1>Detalles de los Platos</h1>
+
+<div>
+    
+    <hr />
+    <dl class="row">
+        <dt class = "col-sm-2">
+            @Html.DisplayNameFor(model => model.Id)
+        </dt>
+        <dd class = "col-sm-10">
+            @Html.DisplayFor(model => model.Id)
+        </dd>
+        <dt class = "col-sm-2">
+            @Html.DisplayNameFor(model => model.Nombre)
+        </dt>
+        <dd class = "col-sm-10">
+            @Html.DisplayFor(model => model.Nombre)
+        </dd>
+        <dt class = "col-sm-2">
+            @Html.DisplayNameFor(model => model.Descripcion)
+        </dt>
+        <dd class = "col-sm-10">
+            @Html.DisplayFor(model => model.Descripcion)
+        </dd>
+        <dt class = "col-sm-2">
+            @Html.DisplayNameFor(model => model.Precio)
+        </dt>
+        <dd class = "col-sm-10">
+            @Html.DisplayFor(model => model.Precio)
+        </dd>
+        <dt class = "col-sm-2">
+            @Html.DisplayNameFor(model => model.Categoria)
+        </dt>
+        <dd class = "col-sm-10">
+            @Html.DisplayFor(model => model.Categoria)
+        </dd>
+        <dt class = "col-sm-2">
+            Restaurante
+        </dt>
+        <dd class = "col-sm-10">
+            @Html.DisplayFor(model => model.Restaurante.Nombre)
+        </dd>
+
+
+        <dt class="col-sm-2">
+            Ingredientes
+        </dt>
+        <dd class="col-sm-10">
+    
+                <ul>
+                @foreach (var item in Model.Ingredientes)
+                {
+                    <li>@item.Nombre</li>
+                }
+                </dd>
+
+
+
+        <dt class="col-sm-2">
+            Restaurante al que pertenece
+        </dt>
+        <dd class="col-sm-10">
+          
+@Html.DisplayFor(model => model.Restaurante.Nombre)
+           
+        </dd>
+
+
+    </dl>
+</div>
+<div>
+    @Html.ActionLink("Edit", "Edit", new {  id = Model.Id }) |
+    <a asp-action="Index">Regresar a la lista Platos</a>
+</div>
